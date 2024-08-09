@@ -21,7 +21,7 @@ function Sectiontwo() {
   return (
     <div>
       <div className='sectionTwoholder'>
-        <h1 style={{ color: '#ee2625' }}>News</h1>
+        <h1 style={{ color: '#ee2625' }}>Actualités</h1>
         <div className='desktopNewsGrid'>
           {section.slice(0, visible).map((data) => {
             return (

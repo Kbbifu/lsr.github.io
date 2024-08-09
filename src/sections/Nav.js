@@ -36,7 +36,7 @@ function hide(e){
             </a>
           </li>
           <li className='service' onClick={(e) => hide(e)}>
-            <div className='text'>Nos Services</div>
+            <div className='text'>Emissions & Actualités</div>
             <div className='dropd'>
               <RiArrowDropDownLine size={'1.5rem'} />
             </div>
@@ -44,12 +44,12 @@ function hide(e){
           <div className={active}>
             <li>
             <a href='/news' className='navlink'>
-              Informations
+              Actualités
             </a>
             </li>
             <li>
             <a href='/programes' className='navlink'>
-              Programmes
+              Emissions
             </a>
             </li>
             {/* <li>Presentateurs</li> */}
@@ -57,7 +57,7 @@ function hide(e){
         </div>
         <div className='navListener'>
           <button className='navlistenBtn'>
-            <span className='text'>Ecouter en Live</span>
+            <span className='text'>En Direct</span>
             <span className='navlistIcon'>
               <PiSpeakerSimpleHighFill style={{ color: '#ee2625' }} />
             </span>

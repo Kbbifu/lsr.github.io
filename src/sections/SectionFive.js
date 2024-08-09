@@ -22,11 +22,11 @@ function SectionFive() {
             <div className='footcardItem'>
               <h4>Adress</h4>
               <ul className='futitems'>
-                <li>Wase, Plateau state, Nigeria</li>
+                <li>Muanda, Kongo Central, RDC</li>
               </ul>
             </div>
             <div className='footcardItem'>
-              <h4>Social Media</h4>
+              <h4>Nos reseaux sociaux</h4>
               <ul className='futitems'>
                 <li>
                   <a href='#' className='d_navlink'>
@@ -59,8 +59,8 @@ function SectionFive() {
               <h4>Contact</h4>
               <ul className='futitems1'>
                 <li>081 xxxx xxxx</li>
-                <li>+234 xxx xxxx</li>
-                <li>+234 xxx xxxx</li>
+                <li>+243 xxx xxxx</li>
+                <li>+243 xxx xxxx</li>
               </ul>
             </div>
           </div>

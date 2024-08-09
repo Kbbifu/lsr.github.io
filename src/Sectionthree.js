@@ -27,7 +27,7 @@ function Sectionthree() {
     <div>
       <div className='sectionThreeHolder'>
         <div className='sectionthreeheader'>
-          <h1 style={{ color: '#ee2625' }}>Programmes</h1>
+          <h1 style={{ color: '#ee2625' }}>Emissions</h1>
           {/* <p>
             "Our services are top notch with up-to-date insite on the latest
             happenings within and outsie the cuntry Nigeria"
